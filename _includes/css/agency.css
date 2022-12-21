@@ -202,7 +202,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: rgba(255,0,0,1); /* Color Test */
+    background-color: #{{ site.data.template.color.primary }}; /* Color Test */
 }
 
 .navbar-default .nav li a {
@@ -224,14 +224,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #0f0;  /* Color Test */
-    background-color: #ff0; /* Color Test */
+    color: rgba(254,209,54,.9);  /* Font Color */
+    background-color: #222; /* Box Color */
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #00f;  /* Color Test */
-    background-color: #0ff; /* Color Test */
+    color: rgba(254,209,54,.75);  /* Font Color */
+    background-color: #222; /* Box Color */
 }
 
 @media(min-width:768px) {
