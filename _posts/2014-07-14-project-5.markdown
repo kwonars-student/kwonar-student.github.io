@@ -1,6 +1,6 @@
 ---
 title: Qualitative Research
-subtitle: Research Study Club
+subtitle: Design Study Club
 layout: default
 modal-id: 5
 date: 2014-07-14
