@@ -1,6 +1,6 @@
 ---
-title: VR Research
-subtitle: Redirected Walking
+title: Virtual Reality
+subtitle: Redirected Walking Research
 layout: default
 modal-id: 1
 date: 2014-07-18
