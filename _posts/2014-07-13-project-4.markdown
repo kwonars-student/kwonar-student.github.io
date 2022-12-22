@@ -2,10 +2,10 @@
 title: Human Machine Interface
 subtitle: Driver's HMI Development
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2014-07-15
 img: hmi.png
-thumbnail: hmi-thumbnail.png
+thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
