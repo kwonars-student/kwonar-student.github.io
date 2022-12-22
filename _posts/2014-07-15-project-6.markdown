@@ -2,7 +2,7 @@
 title: Media Art
 subtitle: Interactive Artwork
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-13
 img: mediaart.png
 thumbnail: mediaart-thumbnail.png
