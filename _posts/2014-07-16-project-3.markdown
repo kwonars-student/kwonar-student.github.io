@@ -1,5 +1,5 @@
 ---
-title: UX Design
+title: User Experience Design
 subtitle: Contact-free UX Design
 layout: default
 modal-id: 3

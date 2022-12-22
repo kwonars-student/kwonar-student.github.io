@@ -1,11 +1,11 @@
 ---
-title: Media Art
-subtitle: Interactive Artwork
+title: Engineering
+subtitle: Hands on Experience
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2014-07-15
 img: roundicons.png
-thumbnail: mediaart-thumbnail.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

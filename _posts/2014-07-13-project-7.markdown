@@ -1,8 +1,8 @@
 ---
-title: Engineering
-subtitle: Hands on Experience
+title: Special Activities
+subtitle: For Our Local Community
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
