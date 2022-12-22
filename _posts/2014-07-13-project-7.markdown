@@ -3,7 +3,7 @@ title: Special Activities
 subtitle: For Our Local Community
 layout: default
 modal-id: 7
-date: 2014-07-15
+date: 2014-07-12
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
