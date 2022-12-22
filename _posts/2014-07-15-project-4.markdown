@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Human Machine Interface
+subtitle: Driver's HMI Development
 layout: default
 modal-id: 4
 date: 2014-07-15

@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: VR Research
+subtitle: Redirected Walking
 layout: default
 modal-id: 1
 date: 2014-07-18
