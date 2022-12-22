@@ -1,6 +1,6 @@
 ---
 title: User Experience Design
-subtitle: Contact-free UX Design
+subtitle: Contact-free Online Church UX Design
 layout: default
 modal-id: 3
 date: 2014-07-16
