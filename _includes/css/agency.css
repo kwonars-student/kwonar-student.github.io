@@ -721,6 +721,41 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#farewell {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/vrbg.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+section#farewell .outro-text {
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+
+section#farewell .outro-text .outro-lead-in {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 18px;
+    font-style: italic;
+    line-height: 18px;
+}
+
+section#farewell .outro-text .outro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
