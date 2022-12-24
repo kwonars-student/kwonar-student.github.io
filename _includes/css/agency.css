@@ -723,7 +723,7 @@ section#contact .text-danger {
 
 section#farewell {
     text-align: center;
-    color: #fff;
+    color: #222;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/farewell-bg.jpg');
     background-position: center center;
@@ -745,6 +745,7 @@ section#farewell .outro-text .outro-lead-in {
     font-size: 18px;
     font-style: italic;
     line-height: 18px;
+    color: #777;
 }
 
 section#farewell .outro-text .outro-heading {
