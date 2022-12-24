@@ -748,7 +748,7 @@ section#farewell .outro-text .outro-lead-in {
 }
 
 section#farewell .outro-text .outro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 50px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
