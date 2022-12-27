@@ -281,7 +281,7 @@ header {
 header .intro-text {
     padding-top: 150px;
     padding-bottom: 30px;
-}
+}    /* WELCOME Text using Phone */
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
@@ -302,10 +302,10 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 240px;
+        padding-top: 250px;
         padding-bottom: 200px;
     }
-
+    /* WELCOME Text using PC */
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
