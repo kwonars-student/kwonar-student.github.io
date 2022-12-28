@@ -12,8 +12,8 @@ client: Start Bootstrap
 category: Web Development
 description: My research topic was focused on navigation techniques in virtual reality (VR), such as redirected walking.<br>
 <br></p>
-<h4>· Infinite Virtual Space Exploration Using Space Tiling and Perceivable Reset at Fixed Positions [pdf], [Video]
-</h4>
+<p>· Infinite Virtual Space Exploration Using Space Tiling and Perceivable Reset at Fixed Positions pdf, Video
+</p>
 <p>
 <br>
 <br>
