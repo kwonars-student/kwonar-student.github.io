@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: My research topic was focused on navigation techniques in virtual reality (VR), such as redirected walking.<br><br></p><h4>· Infinite Virtual Space Exploration Using Space Tiling and Perceivable Reset at Fixed Positions [pdf], [Video]</h4><p><br><br>Reset-at-Fixed-Positions (RFP) eliminated abrupt reorientation tasks which annoy VR users by fixing the reset position. Using our method, the VR user can walk without sudden reorientation tasks and freely trigger the reset. RFP achieved lower motion sickness, negative affect, state anxiety, and a higher sense of immersion and presence than existing gain-based redirection methods.
+description: My research topic was focused on navigation techniques in virtual reality (VR), such as redirected walking.<br><br></p><h4 style="text-align:left; font:droid serif; font-style:Italic">· Infinite Virtual Space Exploration Using Space Tiling and Perceivable Reset at Fixed Positions (ISMAR '22, Singapore)</h4><p style="font:Roboto Slab;">[pdf], [Video]</p><p style="text-align:left;"><br>Reset-at-Fixed-Positions (RFP) eliminated abrupt reorientation tasks which annoy VR users by fixing the reset position. Using our method, the VR user can walk without sudden reorientation tasks and freely trigger the reset. RFP achieved lower motion sickness, negative affect, state anxiety, and a higher sense of immersion and presence than existing gain-based redirection methods.
 
 ---
