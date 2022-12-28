@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: My research topic was focused on navigation techniques in virtual reality (VR), such as redirected walking.<br>Reset-at-Fixed-Positions (RFP) eliminated abrupt reorientation tasks which annoy VR users by fixing the reset position. Using our method, the VR user can walk without sudden reorientation tasks and freely trigger the reset. RFP achieved lower motion sickness, negative affect, state anxiety, and a higher sense of immersion and presence than existing gain-based redirection methods.
 
 ---
