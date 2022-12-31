@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I have an experience in producing interactive artwork for an exhibition collaborating with the artist Pak Lam Sin. This project includes engineering tasks enabling guests to interact with the screen by walking. During the project period, I constructed a system that recognizes people through the camera and expresses them in the artwork. Our work was successfully exhibited at KOTE, an exhibition complex in Seoul in August 2022.<br><span style="font-family:Droid serif;"><i>Implementation process details:</i></span>· Integrated camera and YOLO model in Python process using OpenCV.<br>· Built TouchDesigner's socket programming environment for Inter-Process Communication (IPC).<br>· Defined variable types and formats for data transfer and synchronized Python process with TouchDesigner.<br>· Configured logic to extract up to three people excluding other objects.<br>· Implemented logic to extract the coordinate of each person.<br>· Confirmed expression accuracy and time of the artwork.<br>· Tuned the whole system through rehearsal.
 
 ---
