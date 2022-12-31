@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: A group study on interaction design was conducted with people from various disciplines such as visual design, industrial design, and communication design. We covered a wide range of topics related to user experience (UX) and interaction design, such as webtoons with virtual reality (VR), marketing with metaverse, interfaces and cultural characteristics, human-animal interaction, and human-artificial intelligence (AI) interaction. Besides, we reviewed related papers and books and studied qualitative research methodologies such as Q methodology and grounded theory.
+description: A group study on interaction design was conducted with people from various disciplines such as visual design, industrial design, and communication design. We covered a wide range of topics related to user experience (UX) and interaction design, such as interfaces by cultural characteristics, human-animal interaction, human-artificial intelligence (AI) interaction, webtoons with virtual reality (VR), and marketing with metaverse. In this study, we reviewed related papers and books and learned qualitative research methodologies such as Q methodology and grounded theory.
 
 ---
